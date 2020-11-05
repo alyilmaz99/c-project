@@ -1,2 +1,2 @@
-# c-project
-c les project
+# C- Project
+C de çalışırken yazdığım kodlar.
