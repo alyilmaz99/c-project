@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614625073 source:c:\users\ali\desktop\c ders\dosya okuma binary\main.c
+	<stdio.h>
+	<stdlib.h>
+

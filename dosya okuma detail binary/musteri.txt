@@ -1,0 +1,2 @@
+Hesap No                          Isim                       Soyisim         Bakiye
+      10                      uzunisim                   uzunsoyisim    150.000
